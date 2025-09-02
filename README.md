@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek
 
-<!--
-**Abhishek-047/Abhishek-047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year CS Student @ Rishihood University  
+💻 Interested in Web Development, AI/ML, and Open Source  
+🚀 Exploring projects, hackathons, and communities like GSoC  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Python, C basics (learning C++)  
+- Web Development (HTML, CSS, JavaScript)  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Web Development  
+- Data Structures & Algorithms  
+- Open Source Contributions  
+
+## 🎯 Goals
+- Build real-world projects  
+- Contribute to open source (GSoC, Hackathons, etc.)  
+- Explore Astronomy + Tech (Astroinformatics)  
+
+## 📫 Connect
+- Email: abhishek2006panigrahi@gmail.com  
