@@ -20,4 +20,4 @@
 - Explore Astronomy + Tech (Astroinformatics)  
 
 ## 📫 Connect
-- Email: abhishek2006panigrahi@gmail.com  
+- Email: abhishek2006panigrahi@gmail.com 
