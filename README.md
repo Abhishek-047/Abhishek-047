@@ -12,7 +12,8 @@
 ## 🌱 Currently Learning
 - Web Development  
 - Data Structures & Algorithms  
-- Open Source Contributions  
+- Robotics
+- Electronics  
 
 ## 🎯 Goals
 - Build real-world projects  
