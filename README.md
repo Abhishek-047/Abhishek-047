@@ -5,7 +5,7 @@
 🚀 Exploring projects, hackathons, and communities like GSoC  
 
 ## 🔧 Skills & Tools
-- Python, C basics (learning C++)  
+- Python, C basics ,C++  
 - Web Development (HTML, CSS, JavaScript)  
 - Git & GitHub  
 
