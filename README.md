@@ -69,6 +69,9 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ## 🏆 Featured Projects
 
+### [🌐 Personal Portfolio Website](https://portfoliov2-ashy-one.vercel.app/)
+A custom-built portfolio designed and developed from scratch (without AI assistance) to showcase my projects, skills, and journey as a student and security enthusiast.
+
 ### [CTF Writeups](https://github.com/Abhishek-047/CTF-Writeups)
 A structured, detailed collection of my Capture The Flag (CTF) writeups, offensive security methodologies, and continuous learning progress in the cybersecurity domain. 
 
@@ -90,6 +93,9 @@ I am actively working on some exciting new real-world applications and robotics 
 ## 🤝 Let's Connect!
 
 <div align="center">
+  <a href="https://portfoliov2-ashy-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:abhishek2006panigrahi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
