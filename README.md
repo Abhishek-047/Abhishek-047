@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=200&section=header&text=Abhishek&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=CS+Student+@+Rishihood+University;Red+Teamer+%26+Security+Researcher;IoT+%26+Robotics+Security;Building+the+Future+Line+by+Line" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=CS+Student+@+Rishihood+University;Cybersecurity+Learner+%26+CTF+Player;Interested+in+Red+Teaming+%26+IoT+Security;Building+Projects+•+Learning+Systems+•+Growing+Daily" alt="Typing SVG" /></a>
 
 *“Versatile beats perfection. Don't chase perfection — be versatile, seek excellence.”*
 
@@ -12,7 +12,13 @@
 ---
 
 ## 👤 About Me
-Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood University**. I'm an ambitious technologist with a deep passion for understanding how systems work—and how they break. My primary interests span across **Red Teaming, IoT Security, AI, and Web Development**. I'm currently heavily focused on expanding my offensive security skills and securing robotics/IoT infrastructure, while contributing to open-source communities.
+Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood University**.
+
+I'm exploring software development, cybersecurity, robotics, and AI with a strong curiosity for how real-world systems work.
+
+I enjoy building projects, solving CTF challenges, writing technical notes, and learning through hands-on experimentation.
+
+My current focus is strengthening cybersecurity fundamentals through CTFs and practical work, while gradually moving toward **Red Teaming, IoT Security, Robotics, and real-world development**.
 
 ---
 
@@ -73,10 +79,11 @@ I am actively working on some exciting new real-world applications and robotics 
 
 ## 🎯 Goals for 2026
 
-- [ ] Build and deploy robust real-world projects.
-- [ ] Make meaningful contributions to Open Source communities (GSoC, etc.).
-- [ ] Participate and rank in high-stakes competitive Hackathons.
-- [ ] Explore the intersection of Astronomy and Technology.
+- [ ] Build and deploy real-world projects
+- [ ] Improve problem-solving through DSA and CTFs
+- [ ] Contribute to open-source projects
+- [ ] Participate in hackathons and technical communities
+- [ ] Explore the intersection of Astronomy and Technology
 
 ---
 
