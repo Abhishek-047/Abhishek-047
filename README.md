@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=200&section=header&text=Abhishek&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=CS+Student+@+Rishihood+University;Cybersecurity+Learner+%26+CTF+Player;Interested+in+Red+Teaming+%26+IoT+Security;Building+Projects+•+Learning+Systems+•+Growing+Daily" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+Rishihood+University;Cybersecurity+Learner+%26+CTF+Player;Interested+in+Red+Teaming+%26+IoT+Security;Building+Projects+%7C+Learning+Systems+%7C+Growing+Daily" alt="Typing SVG" /></a>
 
 *“Versatile beats perfection. Don't chase perfection — be versatile, seek excellence.”*
 
