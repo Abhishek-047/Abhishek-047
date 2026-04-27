@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=200&section=header&text=Abhishek&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=CS+Student+@+Rishihood+University;Cybersecurity+Enthusiast;Web+Developer+%26+Robotics+Explorer;Building+the+Future+Line+by+Line" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=CS+Student+@+Rishihood+University;Red+Teamer+%26+Security+Researcher;IoT+%26+Robotics+Security;Building+the+Future+Line+by+Line" alt="Typing SVG" /></a>
 
 *“Versatile beats perfection. Don't chase perfection — be versatile, seek excellence.”*
 
@@ -12,7 +12,7 @@
 ---
 
 ## 👤 About Me
-Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood University**. I'm an ambitious technologist with a deep passion for understanding how systems work—and how they break. My primary interests span across **Web Development, Artificial Intelligence, Cybersecurity, and Robotics**. I'm currently focused on expanding my offensive security skills and contributing to open-source communities.
+Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood University**. I'm an ambitious technologist with a deep passion for understanding how systems work—and how they break. My primary interests span across **Red Teaming, IoT Security, AI, and Web Development**. I'm currently heavily focused on expanding my offensive security skills and securing robotics/IoT infrastructure, while contributing to open-source communities.
 
 ---
 
@@ -36,8 +36,8 @@ Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood Univer
 <div align="center">
   <img src="https://img.shields.io/badge/Web_Development-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Web Dev" />
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="DSA" />
-  <img src="https://img.shields.io/badge/Cybersecurity-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Robotics-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Red_Teaming-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Red Teaming" />
+  <img src="https://img.shields.io/badge/IoT_Security-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="IoT Security" />
   <img src="https://img.shields.io/badge/Electronics-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Electronics" />
 </div>
 
