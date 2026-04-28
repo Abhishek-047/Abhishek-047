@@ -31,8 +31,27 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion" />
+</div>
+
+---
+
+## 🎨 Creative Arsenal
+*(Because versatile problem solvers are creative thinkers)*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Premiere_Pro-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=unsplash&logoColor=ffffff" alt="Photography" />
+  <img src="https://img.shields.io/badge/Cinematography-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Cinematography" />
 </div>
 
 ---
@@ -62,6 +81,10 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
   <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-047&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Abhishek-047/Abhishek-047/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 
 </div>
 
