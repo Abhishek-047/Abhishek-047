@@ -84,7 +84,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/Abhishek-047/Abhishek-047/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/Abhishek-047/Abhishek-047/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 
 </div>
 
