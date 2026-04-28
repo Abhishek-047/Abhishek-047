@@ -63,6 +63,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="DSA" />
   <img src="https://img.shields.io/badge/Red_Teaming-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Red Teaming" />
   <img src="https://img.shields.io/badge/IoT_Security-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="IoT Security" />
+  <img src="https://img.shields.io/badge/Robotics-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Robotics" />
   <img src="https://img.shields.io/badge/Electronics-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Electronics" />
 </div>
 
