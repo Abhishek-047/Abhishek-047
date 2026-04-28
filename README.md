@@ -82,10 +82,6 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-047&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/Abhishek-047/Abhishek-047/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-
 </div>
 
 ---
