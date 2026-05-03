@@ -18,7 +18,7 @@ I'm exploring software development, cybersecurity, robotics, and AI with a stron
 
 I enjoy building projects, solving CTF challenges, writing technical notes, and learning through hands-on experimentation.
 
-My current focus is strengthening cybersecurity fundamentals through CTFs and practical work, while gradually moving toward **Red Teaming, IoT Security, Robotics, and real-world development**.
+My current focus is strengthening cybersecurity fundamentals through CTFs and practical work, while gradually moving toward **Red Teaming, IoT Security, Robotics, Space/Astronomy and real-world development**.
 
 ---
 
