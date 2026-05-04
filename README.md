@@ -14,7 +14,7 @@
 ## 👤 About Me
 Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood University**.
 
-I'm exploring software development, cybersecurity, robotics, and AI with a strong curiosity for how real-world systems work.
+I'm exploring software development, cybersecurity, robotics, Space/Astronomy, and AI with a strong curiosity for how real-world systems work.
 
 I enjoy building projects, solving CTF challenges, writing technical notes, and learning through hands-on experimentation.
 
