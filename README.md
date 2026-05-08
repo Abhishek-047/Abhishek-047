@@ -16,7 +16,7 @@ Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood Univer
 
 I'm exploring software development, cybersecurity, robotics, Space/Astronomy, and AI with a strong curiosity for how real-world systems work.
 
-I enjoy building projects, solving CTF challenges, writing technical notes, and learning through hands-on experimentation.
+I enjoy building projects, solving CTF challenges, writing technical notes, reading research papers, and learning through hands-on experimentation.
 
 My current focus is strengthening cybersecurity fundamentals through CTFs and practical work, while gradually moving toward **Red Teaming, IoT Security, Robotics, Space/Astronomy and real-world development**.
 
