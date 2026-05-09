@@ -43,7 +43,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ---
 
-## 🎨 Creative Arsenal
+## 🎨 Creative Arsenal/Hobbies
 *(Because versatile problem solvers are creative thinkers)*
 
 <div align="center">
