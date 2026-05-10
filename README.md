@@ -106,7 +106,7 @@ I am actively working on some exciting new real-world applications and robotics 
 - [ ] Improve problem-solving through DSA and CTFs
 - [ ] Contribute to open-source projects
 - [ ] Participate in hackathons and technical communities
-- [ ] Explore the intersection of Astronomy and Technology
+- [ ] Explore the intersection of Astronomy and Technology and Robotics
 
 ---
 
