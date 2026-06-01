@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+Rishihood+University;Cybersecurity+Learner+%26+CTF+Player;Interested+in+Red+Teaming+%26+IoT+Security;Building+Projects+%7C+Learning+Systems+%7C+Growing+Daily" alt="Typing SVG" /></a>
 
-*“Versatile beats perfection. Don't chase perfection — be versatile, seek excellence.”*
+*“Versatile beats perfection. Don't chase perfection, be versatile, seek excellence.”*
 
 </div>
 
