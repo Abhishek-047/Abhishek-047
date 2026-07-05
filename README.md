@@ -105,13 +105,13 @@ A custom-built portfolio designed and developed from scratch (without AI assista
 A structured, detailed collection of my Capture The Flag (CTF) writeups, offensive security methodologies, and continuous learning progress in the cybersecurity domain. 
 
 ### [🤖 ALSRYiX](https://github.com/Abhishek-047/ALSRYiX)
-An advanced project exploring intelligent systems and real-world automation. Built with a focus on modularity and extensibility.
+An AI-powered pixel-art desktop companion that roams your screen, reacts to system states, and keeps you company while you work. Built with Python and PySide6.
 
 ### [💓 Pulse](https://github.com/Abhishek-047/Pulse)
-A dynamic, real-time application designed to capture and visualize live data streams — blending performance with clean UI/UX design.
+A premium Music OS for your browser that unifies YouTube Music and Spotify control with a Dynamic Island, a full Music Hub, and a living waveform visualizer.
 
-### [🔐 AI Pass Extension](https://github.com/Abhishek-047/Ai-Pass-Extension-)
-A browser extension leveraging AI to intelligently manage and secure passwords — combining cybersecurity principles with practical usability.
+### [🔐 VaultGuard (AI Pass Extension)](https://github.com/Abhishek-047/Ai-Pass-Extension-)
+A local-first, zero-knowledge, hardware-secured password manager extension with biometric unlock, real-time integrity scoring, and a premium glassmorphic interface.
 
 ### ⏳ More Coming Soon...
 I am actively working on some exciting new real-world applications and robotics integrations. Stay tuned!
