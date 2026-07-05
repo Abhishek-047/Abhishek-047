@@ -73,7 +73,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-047&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Abhishek-047&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" />
   
   <br/><br/>
   
@@ -81,7 +81,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-047&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-047&theme=radical" alt="Top Languages" />
 
 </div>
 
@@ -94,6 +94,15 @@ A custom-built portfolio designed and developed from scratch (without AI assista
 
 ### [CTF Writeups](https://github.com/Abhishek-047/CTF-Writeups)
 A structured, detailed collection of my Capture The Flag (CTF) writeups, offensive security methodologies, and continuous learning progress in the cybersecurity domain. 
+
+### [🤖 ALSRYiX](https://github.com/Abhishek-047/ALSRYiX)
+An advanced project exploring intelligent systems and real-world automation. Built with a focus on modularity and extensibility.
+
+### [💓 Pulse](https://github.com/Abhishek-047/Pulse)
+A dynamic, real-time application designed to capture and visualize live data streams — blending performance with clean UI/UX design.
+
+### [🔐 AI Pass Extension](https://github.com/Abhishek-047/Ai-Pass-Extension-)
+A browser extension leveraging AI to intelligently manage and secure passwords — combining cybersecurity principles with practical usability.
 
 ### ⏳ More Coming Soon...
 I am actively working on some exciting new real-world applications and robotics integrations. Stay tuned!
