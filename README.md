@@ -84,9 +84,8 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
   <br/><br/>
 
-  <!-- Row 3: Language Breakdown (by Commit % + by Repo %) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-047&theme=radical" alt="Top Languages by Commit %" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-047&theme=radical" alt="Top Languages by Repo %" />
+  <!-- Row 3: Top Languages with exact % numbers (bar chart) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek-047&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&card_width=450" alt="Top Languages" />
 
   <br/><br/>
 
