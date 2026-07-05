@@ -72,16 +72,20 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-stats-alpha.vercel.app/api?username=Abhishek-047&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-047&theme=radical&hide_border=true&background=0D1117" alt="Abhishek's GitHub Streak" />
-  
+
+  <!-- Row 1: Stats + Most Commit Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-047&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-047&theme=radical" alt="Most Used Languages" />
+
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-047&theme=radical" alt="Top Languages" />
+  <!-- Row 2: Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-047&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=00F0FF" alt="Abhishek's GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Row 3: Profile Details (Contribution Graph) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-047&theme=radical" alt="Contribution Graph" />
 
 </div>
 
