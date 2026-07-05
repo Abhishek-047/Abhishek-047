@@ -73,9 +73,9 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 <div align="center">
 
-  <!-- Row 1: Stats + Most Commit Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-047&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-047&theme=radical" alt="Most Used Languages" />
+  <!-- Row 1: Stats + Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-047&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishek-047&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
   <br/><br/>
 
@@ -84,7 +84,13 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
   <br/><br/>
 
-  <!-- Row 3: Profile Details (Contribution Graph) -->
+  <!-- Row 3: Language Breakdown (by Commit % + by Repo %) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek-047&theme=radical" alt="Top Languages by Commit %" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-047&theme=radical" alt="Top Languages by Repo %" />
+
+  <br/><br/>
+
+  <!-- Row 4: Contribution Graph (full width) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-047&theme=radical" alt="Contribution Graph" />
 
 </div>
