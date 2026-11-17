@@ -11,8 +11,9 @@
 
 ---
 
-## 👤 About Me
-Hey! I'm **Abhishek**, a 1st-year Computer Science student at **Rishihood University**.
+# # 👤 About Me
+
+Hey! I'm **Abhishek**, a 2nd-year Computer Science student at **Rishihood University**.
 
 I'm exploring software development, cybersecurity, robotics, Space/Astronomy, and AI with a strong curiosity for how real-world systems work.
 
@@ -22,7 +23,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ---
 
-## 💻 Tech Stack & Tools
+# # 💻 Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -43,7 +44,8 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ---
 
-## 🎨 Creative Arsenal/Hobbies
+# # 🎨 Creative Arsenal/Hobbies
+
 *(Because versatile problem solvers are creative thinkers)*
 
 <div align="center">
@@ -56,7 +58,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ---
 
-## 🔭 Currently Exploring
+# # 🔭 Currently Exploring
 
 <div align="center">
   <img src="https://img.shields.io/badge/Web_Development-00F0FF?style=for-the-badge&color=000000&logoColor=00F0FF" alt="Web Dev" />
@@ -69,7 +71,7 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ---
 
-## 📊 GitHub Analytics
+# # 📊 GitHub Analytics
 
 <div align="center">
 
@@ -96,29 +98,35 @@ My current focus is strengthening cybersecurity fundamentals through CTFs and pr
 
 ---
 
-## 🏆 Featured Projects
+# # 🏆 Featured Projects
 
-### [🌐 Personal Portfolio Website](https://portfoliov2-ashy-one.vercel.app/)
+## # [🌐 Personal Portfolio Website](https://portfoliov2-ashy-one.vercel.app/)
+
 A custom-built portfolio designed and developed from scratch (without AI assistance) to showcase my projects, skills, and journey as a student and security enthusiast.
 
-### [CTF Writeups](https://github.com/Abhishek-047/CTF-Writeups)
-A structured, detailed collection of my Capture The Flag (CTF) writeups, offensive security methodologies, and continuous learning progress in the cybersecurity domain. 
+## # [CTF Writeups](https://github.com/Abhishek-047/CTF-Writeups)
 
-### [🤖 ALSRYiX](https://github.com/Abhishek-047/ALSRYiX)
+A structured, detailed collection of my Capture The Flag (CTF) writeups, offensive security methodologies, and continuous learning progress in the cybersecurity domain.
+
+## # [🤖 ALSRYiX](https://github.com/Abhishek-047/ALSRYiX)
+
 An AI-powered pixel-art desktop companion that roams your screen, reacts to system states, and keeps you company while you work. Built with Python and PySide6.
 
-### [💓 Pulse](https://github.com/Abhishek-047/Pulse)
+## # [💓 Pulse](https://github.com/Abhishek-047/Pulse)
+
 A premium Music OS for your browser that unifies YouTube Music and Spotify control with a Dynamic Island, a full Music Hub, and a living waveform visualizer.
 
-### [🔐 VaultGuard (AI Pass Extension)](https://github.com/Abhishek-047/Ai-Pass-Extension-)
+## # [🔐 VaultGuard (AI Pass Extension)](https://github.com/Abhishek-047/Ai-Pass-Extension-)
+
 A local-first, zero-knowledge, hardware-secured password manager extension with biometric unlock, real-time integrity scoring, and a premium glassmorphic interface.
 
-### ⏳ More Coming Soon...
+## # ⏳ More Coming Soon...
+
 I am actively working on some exciting new real-world applications and robotics integrations. Stay tuned!
 
 ---
 
-## 🎯 Goals for 2026
+# # 🎯 Goals for 2026
 
 - [ ] Build and deploy real-world projects
 - [ ] Improve problem-solving through DSA and CTFs
@@ -128,7 +136,7 @@ I am actively working on some exciting new real-world applications and robotics 
 
 ---
 
-## 🤝 Let's Connect!
+# # 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://portfoliov2-ashy-one.vercel.app/">
